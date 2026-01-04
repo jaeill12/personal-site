@@ -143,7 +143,7 @@ export default function HomeClient({ latestPosts }: HomeClientProps) {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            와타시노 나마에와 허 제 일 데쓰. 나에게 건축은 살인이다.
+            와타시노 나마에와 허 재 일 데쓰. 나에게 건축은 살인이다.
           </p>
         </div>
       </motion.section>
