@@ -1,7 +1,7 @@
 ---
 title: 자연도태 될 것인가 계속 할 것인가?
 description: 너 그만 설계 때려쳐라.
-date: '2026-01-04'
+date: '2025-09-01'
 thumbnail: /images/2026/01/자연 도태-1767546489302-oa24kv.jpg
 ---
 
