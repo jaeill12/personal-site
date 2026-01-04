@@ -143,7 +143,7 @@ export default function HomeClient({ latestPosts }: HomeClientProps) {
       >
         <div className="flex-1">
           <p className="text-zinc-600 dark:text-zinc-400">
-            My name is Yeonguk Choo, a software engineer specializing in the open-source ecosystem and data engineering. 
+            My name is Jaeill Heo, a software engineer specializing in the open-source ecosystem and data engineering. 
             I take pride in my ability to solve problems based on experience across various industries,
             and I enjoy driving improvements by streamlining workflows and making processes more efficient.
           </p>

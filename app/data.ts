@@ -29,56 +29,33 @@ type SocialLink = {
 
 export const PROJECTS: Project[] = [
   {
-    name: 'arxtrus-milkyway',
+    name: '졸업작품',
     description:
-      'Data pipline for the financial industry that collects, cleans, and analyzes data from various sources.',
-    link: 'https://arxtrus.com',
+      'ㅈㄴ 힘들었다.',
+    link: 'https://jae-ill.com',
     video:
       'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/newProfileItem/d898be8a-7037-4c71-af0c-8997239b050d.mp4?_a=DATAdtAAZAA0',
     id: 'project1',
   },
-  {
-    name: 'Kickboard Module with Jetson Nano',
-    description: 'A module that detects helmet usage and entry into children protection zones to control the maximum output speed of the kickboard.',
-    link: 'https://github.com/choo121600/kickboardModule',
-    video:
-      'https://res.cloudinary.com/read-cv/video/upload/t_v_b/v1/1/profileItems/W2azTw5BVbMXfj7F53G92hMVIn32/XSfIvT7BUWbPRXhrbLed/ee6871c9-8400-49d2-8be9-e32675eabf7e.mp4?_a=DATAdtAAZAA0',
-    id: 'project2',
-  },
+
 ]
 
 export const WORK_EXPERIENCE: WorkExperience[] = [
   {
-    company: 'Apache Software Foundation',
-    title: 'Committer for Apache Airflow',
-    start: '2025',
+    company: '경성대학교',
+    title: '건축학과',
+    start: '2019',
     end: 'Present',
-    link: 'https://github.com/apache/airflow',
+    link: 'https://www.ksa.ac.kr/',
     id: 'work1',
-  },  
-  {
-    company: 'arxtrus',
-    title: 'Founder',
-    start: '2024',
-    end: 'Present',
-    link: 'https://arxtrus.com',
-    id: 'work2',
-  },
-  {
-    company: 'Canonical',
-    title: 'Member of the Ubuntu',
-    start: '2024',
-    end: 'Present',
-    link: 'https://launchpad.net/~ubuntumembers',
-    id: 'work3',
-  }
+  }, 
 ]
 
 export const TALK_POSTS: TalkPost[] = [
   {
-    title: 'Airflow 101 with Astro CLI',
-    description: 'Hands-on workshop: Daily news summary and investment advice messaging service.',
-    link: 'https://www.meetup.com/apache-airflow-users-korea/events/303680210',
+    title: '졸업 작품 발표',
+    description: '졸업 작품 발표 후 전시 및 수상',
+    link: 'https://www.jae-ill.com/',
     uid: 'talk-1',
   }
 ]
@@ -86,16 +63,16 @@ export const TALK_POSTS: TalkPost[] = [
 export const SOCIAL_LINKS: SocialLink[] = [
   {
     label: 'Github',
-    link: 'https://github.com/choo121600',
+    link: 'https://github.com/jaeill12',
   },
   {
     label: 'LinkedIn',
-    link: 'https://www.linkedin.com/in/yeonguk-choo',
+    link: 'https://www.linkedin.com/in/jaeill-Heo',
   },
   {
     label: 'Instagram',
-    link: 'https://www.instagram.com/yeong_uk._',
+    link: 'https://www.instagram.com/jaeill',
   },
 ]
 
-export const EMAIL = 'choo121600@gmail.com'
+export const EMAIL = 'Heo121600@gmail.com'

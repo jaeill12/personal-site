@@ -12,9 +12,9 @@ export const viewport: Viewport = {
 }
 
 export const metadata: Metadata = {
-  title: 'Yeonguk Choo',
+  title: 'Jaeill Heo',
   description:
-    'Yeonguk Choo\'s personal website. Data Engineer and Software Engineer.',
+    'Jaeill Heo\'s personal website. Data Engineer and Software Engineer.',
 }
 
 const geist = Geist({
