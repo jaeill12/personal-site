@@ -5,7 +5,7 @@ date: '2025-12-09'
 thumbnail: /images/2026/01/다시 시작하자고-1767573674851-k8eee9.gif
 ---
 
-<img src="/images/2026/01/image-1767576682590-p3qczu.png" width="45%">
+<img src="/images/2026/01/image-1767576682590-p3qczu.png" width="80%">
 
 2학기의 첫날 등교 부터 심상치 않다. 시부레 이게 한국의 대학교가 맞나?
 
@@ -13,11 +13,11 @@ thumbnail: /images/2026/01/다시 시작하자고-1767573674851-k8eee9.gif
 
 <h2>정답은 나 말고 한국인은 없다가 정답이다.</h2>
 
-<img src="/images/2026/01/image-1767574226923-gydrnb.png" width="50%">
+<img src="/images/2026/01/image-1767574226923-gydrnb.png" width="70%">
 
 <h2>그렇다 나는 대한민국 미래의 건축을 책임질 건축학도 4학년 같은 3학년 허. 재. 일 이런것에 화가 나지 않는다.</h2>
 
-<img src="/images/2026/01/image-1767575136517-mwk12w.png" width="50%">
+<img src="/images/2026/01/image-1767575136517-mwk12w.png" width="75%">
 
 이러한 불만은 간단한 변기 영욱이에게 배설하고 풀어버리면 그만이다.
 
@@ -41,9 +41,9 @@ thumbnail: /images/2026/01/다시 시작하자고-1767573674851-k8eee9.gif
 
 <h1>뭐냐 이 거리는?</h1>
 
-<img src="/images/2026/01/image-1767575464465-c1pfzp.png" width="40%"> 
+<img src="/images/2026/01/image-1767575464465-c1pfzp.png" width="70%"> 
 
-<img src="/images/2026/01/image-1767575616626-zu2k4r.png" width="40%"> 
+<img src="/images/2026/01/image-1767575616626-zu2k4r.png" width="70%"> 
 
 <h3>니네 이런곳에서 싸웠냐? 재개발로 싸우지마라 뒤지기 싫으면</h3>
 
@@ -64,7 +64,7 @@ thumbnail: /images/2026/01/다시 시작하자고-1767573674851-k8eee9.gif
 
 <h3>나같은 범부는 디자인에 약하다고!!!</h3>
 
-<img src="/images/2026/01/image-1767577063321-opdgbt.png" width="40%"> 
+<img src="/images/2026/01/image-1767577063321-opdgbt.png" width="70%"> 
 
 <h2>아니다 할 수 있다 난.</h2>
 
@@ -78,7 +78,7 @@ thumbnail: /images/2026/01/다시 시작하자고-1767573674851-k8eee9.gif
 <br>.
 <br>.
 
-<img src="/images/2026/01/image-1767577192404-x5j913.png" width="60%"> 
+<img src="/images/2026/01/image-1767577192404-x5j913.png" width="90%"> 
 <br>
 <h1>ㅆ발 조진거 같다</h1>
 
