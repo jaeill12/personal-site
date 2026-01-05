@@ -92,4 +92,8 @@ thumbnail: /images/2026/01/다시 시작하자고-1767573674851-k8eee9.gif
 
 <br><br><br><br><br>
 
-<h1>다음 이야기에 계속 된다...</h1>
+<h1>다음 이야기에서 계속 된다...</h1>
+
+
+![image.png](/images/2026/01/image-1767578135586-c3z4qs.png)
+
